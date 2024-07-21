@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://uenthema.github.io/sitemap
+Sitemap: https://uenthema.github.io/app/sitemap
+Sitemap: https://uenthema.github.io/assets/sitemap
+Sitemap: https://uenthema.github.io/css/sitemap
+Sitemap: https://uenthema.github.io/includes/sitemap
+Sitemap: https://uenthema.github.io/item/sitemap
+Sitemap: https://uenthema.github.io/src/sitemap
